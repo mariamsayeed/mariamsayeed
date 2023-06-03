@@ -10,7 +10,5 @@
 
 📬 Let's connect and collaborate! I'm open to exciting opportunities, engaging in discussions, and working on projects that leverage my skills. Feel free to reach out to me.
 
-🔗 You can find me on other platforms:
-- LinkedIn: [https://www.linkedin.com/in/mariam-sayeed/]
 
 Looking forward to connecting with like-minded developers and building innovative solutions together in the exciting world of blockchain! 🌍✨
