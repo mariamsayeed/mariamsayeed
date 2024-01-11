@@ -3,9 +3,9 @@
 <img alt="Image Alt Text" src="HELLO WORLD.gif" width="1000" height="500"/>
 
 <div align="center">
-<a href="https://twitter.com/MariamSayeed3"><img src="assets/Twitter.svg" alt="Twitter" width="30" height="30"/></a>
-<a href="https://www.linkedin.com/in/mariam-sayeed/"><img src="assets/LinkedIn.svg" alt="LinkedIn" width="30" height="30"/></a>
-<a href="mailto:mariambintsayeed@gmail.com"><img src="assets/Gmail-Dark.svg" alt="Gmail" width="30" height="30"/></a>
+<a href="https://twitter.com/MariamSayeed3"><img src="assets/Twitter.svg" alt="Twitter" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/mariam-sayeed/"><img src="assets/LinkedIn.svg" alt="LinkedIn" width="40" height="40"/></a>
+<a href="mailto:mariambintsayeed@gmail.com"><img src="assets/Gmail-Dark.svg" alt="Gmail" width="40" height="40"/></a>
 </div>
 
 
@@ -21,7 +21,7 @@
 
 <h2 align="center">💻 My Tech Stack:</h2>
 
-<div align="center>
+<div align="center">
 <img src="assets/CPP.svg" alt="C++" width="50" height="50"/> <img src="assets/JavaScript.svg" alt="javascript" width="50" height="50"/> <img src="assets/HTML.svg" alt="html" width="50" height="50"/> <img src="assets/TailwindCSS-Dark.svg" alt="CSS" width="50" height="50"/> <img src="assets/React-Dark.svg" alt="reactjs" width="50" height="50"/> <img src="assets/NextJS-Dark.svg" alt="nextjs" width="50" height="50"/> <img src="assets/ExpressJS-Dark.svg" alt="express" width="50" height="50"/> <img src="assets/Solidity.svg" alt="solidity" width="50" height="50"/>
 </div>
 
