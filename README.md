@@ -1,3 +1,7 @@
+![Profile Image](image-source)
+
+<img alt="Image Alt Text" src="github_readme.gif" />
+
 👋 Hello, fellow developers! I'm Mariam, a passionate learner and blockchain enthusiast with a focus on Solidity smart contract development.
 
 💻 I have a solid foundation in HTML, CSS, and JavaScript, which I leverage to create intuitive and user-friendly web interfaces.
