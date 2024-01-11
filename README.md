@@ -35,5 +35,5 @@
 <h2 align="center">📖 Read My Blogs:</h2>
 
 <div align="center">
-<a href="https://dev.to/mariam1760"><img src="assets/dev.svg" alt="dev.to" width="30" height="30"/></a>
+<a href="https://dev.to/mariam1760"><img src="assets/dev.svg" alt="dev.to" width="50" height="50"/></a>
 </div>
