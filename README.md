@@ -29,4 +29,11 @@
 ![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariamSayeed&show_icons=true&theme=radical)
 
 <h2 align="center"> 📊 My Languages Stats:</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamSayeed&layout=compact)](
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamSayeed&layout=compact)]
+
+
+<h2 align="center">📖 Read My Blogs:</h2>
+
+<div align="center">
+<a href="https://dev.to/mariam1760">dev.to/MariamSayeed</a>
+</div>
