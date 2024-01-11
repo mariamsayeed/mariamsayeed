@@ -26,10 +26,14 @@
 </div>
 
 <h2 align="center"> 📊 My Github Stats:</h2>
-![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariamSayeed&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MariamSayeed&show_icons=true&theme=radical" alt="Mariam's GitHub stats">
+</p>
 
 <h2 align="center"> 📊 My Languages Stats:</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamSayeed&layout=compact)]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamSayeed&layout=compact" alt="Top Languages">
+</p>
 
 
 <h2 align="center">📖 Read My Blogs:</h2>
