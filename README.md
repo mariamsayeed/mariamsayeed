@@ -16,3 +16,6 @@
 
 🎵 Fun Fact: I love listening to Taylor Swift songs while coding. 
 
+## 💻 My Tech Stack:
+
+<img src="CPP.svg" alt="C++" width="50" height="50"/>
