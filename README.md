@@ -1,6 +1,4 @@
-![Profile Image](image-source)
 
-<img alt="Image Alt Text" src="HELLO WORLD.gif" width="1000" height="500"/>
 
 <div align="center">
 <a href="https://twitter.com/MariamSayeed3"><img src="assets/Twitter.svg" alt="Twitter" width="40" height="40"/></a>
