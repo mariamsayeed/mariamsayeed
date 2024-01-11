@@ -39,5 +39,5 @@
 <h2 align="center">💡 A Quote:</h2>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Readme Quotes">
 </div>
