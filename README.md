@@ -2,9 +2,13 @@
 
 <img alt="Image Alt Text" src="HELLO WORLD.gif" width="1000" height="500"/>
 
+<div align="center">
 <a href="https://twitter.com/MariamSayeed3"><img src="assets/Twitter.svg" alt="Twitter" width="30" height="30"/></a>
 <a href="https://www.linkedin.com/in/mariam-sayeed/"><img src="assets/LinkedIn.svg" alt="LinkedIn" width="30" height="30"/></a>
 <a href="mailto:mariambintsayeed@gmail.com"><img src="assets/Gmail-Dark.svg" alt="Gmail" width="30" height="30"/></a>
+</div>
+
+
 👋 I'm currently a pre-final year student at Heritage Institute of Technology, Kolkata. 
 
 💻 I'm passionate about solving algorithmic problems and constantly improving my coding skills.
