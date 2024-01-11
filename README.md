@@ -1,6 +1,6 @@
 ![Profile Image](image-source)
 
-<img alt="Image Alt Text" src="HELLO WORLD.gif" width="1000" height="300"/>
+<img alt="Image Alt Text" src="HELLO WORLD.gif" width="1000" height="500"/>
 
 👋 Hello, fellow developers! I'm Mariam, a passionate learner and blockchain enthusiast with a focus on Solidity smart contract development.
 
