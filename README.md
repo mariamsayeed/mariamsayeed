@@ -36,8 +36,8 @@
 </p>
 
 
-<h2 align="center">📖 Read My Blogs:</h2>
+<h2 align="center">💡 A Quote:</h2>
 
 <div align="center">
-<a href="https://dev.to/mariam1760"><img src="assets/dev.svg" alt="dev.to" width="80" height="50"/></a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
 </div>
