@@ -39,3 +39,6 @@
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Readme Quotes">
 </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mariamsayeed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
