@@ -7,11 +7,11 @@
 </div>
 
 
-👋 I'm currently a pre-final year student at Heritage Institute of Technology, Kolkata. 
+👋 I'm currently a final year student at Heritage Institute of Technology, Kolkata. 
 
 💻 I'm passionate about solving algorithmic problems and constantly improving my coding skills.
 
-📚 I'm aiming to write one article per week starting from January 2024.
+📚 I'm aiming to write one article per week starting from January 2025.
 
 🚀 I'm striving to increase my GitHub stats rating by contributing to open-source projects.
 
